@@ -1,4 +1,5 @@
-## Hi there 👋
+<!--## Hi there 👋-->
+# hello im japanese
 
 <!--
 **auau1919810/auau1919810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
